@@ -157,10 +157,10 @@
                                         <i class="fa fa-share-alt" aria-hidden="true"></i>
                                         <h3>Suivez-nous</h3>
                                         <ul class="contact-social">
-                                            <li><a href="http://www.facebook.com"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li><a href="http://www.twitter.com"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                            <li><a href="http://www.linkedin.com"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>                                            
-                                            <li><a href="http://www.plus.google.com"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                                            <li><a href="http://www.facebook.com/shalimar"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                            <li><a href="http://www.twitter.com/shalimar"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                            <li><a href="http://www.linkedin.com/shalimar"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>                                            
+                                            <li><a href="http://www.plus.google.com/shalimar"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
                                         </ul>
                                     </li>       
                                 </ul>

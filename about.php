@@ -97,7 +97,7 @@
                     <div class="row no-gutters about-page2-inner">
                         <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
                             <div class="about-page2-img-holder">
-                                <img src="img/hotel2.png" class="img-responsive" alt="about-banner">
+                                <img src="img/about2.png" class="img-responsive" alt="about-banner">
                             </div>
                         </div>
                          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">

@@ -1,5 +1,4 @@
-
-                <div class="footer-area-top section-space">
+<div class="footer-area-top section-space">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -19,33 +18,33 @@
                                     <h3 class="title-bar-footer">Shalimar Spécial</h3>
                                     <div class="footer-blog-post">
                                         <div class="media">
-                                            <a href="#" class="pull-left">
+                                            <a href="indian_spcl.php" class="pull-left">
                                                 <img src="img/footer/footer1 (1).jpg" alt="footer-blog" class="img-responsive">
                                             </a>
                                             <div class="media-body">
-                                                <h4><a href="#">Menu Midi</a></h4>
+                                                <h4><a href="indian_spcl.php">Menu Midi</a></h4>
                                                 <p>11.00€</p>
                                             </div>
                                         </div>
                                     </div>
                                      <div class="footer-blog-post">
                                         <div class="media">
-                                            <a href="#" class="pull-left">
+                                            <a href="indian_spcl.php" class="pull-left">
                                                 <img src="img/footer/footer2 (1).jpg" alt="footer-blog" class="img-responsive">
                                             </a>
                                             <div class="media-body">
-                                                <h4><a href="#">Menu Voyage</a></h4>
+                                                <h4><a href="indian_spcl.php">Menu Voyage</a></h4>
                                                 <p>23.00€</p>
                                             </div>
                                         </div>
                                     </div>
                                      <div class="footer-blog-post">
                                         <div class="media">
-                                            <a href="#" class="pull-left">
+                                            <a href="indian_spcl.php" class="pull-left">
                                                 <img src="img/footer/footer3 (1).jpg" alt="footer-blog" class="img-responsive">
                                             </a>
                                             <div class="media-body">
-                                                <h4><a href="i#">Menu Shalimar</a></h4>
+                                                <h4><a href="indian_spcl.php">Menu Shalimar</a></h4>
                                                 <p>19.00€</p>
                                             </div>
                                         </div>
@@ -57,12 +56,12 @@
                                     <h3 class="title-bar-footer">Heures d'ouverture</h3>
                                     <ul class="opening-schedule">
                                     	<li>Ouvert 7J/7 de 11h30 à 14h30 et de 18h30 à 22h45 </li>
-                                    		<ul class="footer-social">
-		                                        <li><a href="http://www.facebook.com"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-		                                        <li><a href="http://www.twitter.com"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-		                                        <li><a href="http://www.linkedin.com"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-		                                        <li><a href="http://www.plus.google.com"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                    		</ul>
+                                    	<ul class="footer-social">
+                                        <li><a href="http://www.facebook.com/shalimar"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li><a href="http://www.twitter.com/shalimar"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li><a href="http://www.linkedin.com/shalimar"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                        <li><a href="http://www.plus.google.com/shalimar"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                                    	</ul>
                                         <!-- <li>Lundi<span> 5pm - 11pm</span></li>
                                         <li>Mardi<span> 5pm - 11pm</span></li>
                                         <li>Mercredi <span> Fermé</span></li>
@@ -93,4 +92,3 @@
                			 </div>
                  	</div>
                 </div>
-           

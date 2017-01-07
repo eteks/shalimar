@@ -314,21 +314,21 @@
                                     <div class="about2-top-box">
                                         <!-- <i class="flaticon-hamburger"></i>  -->
                                         <img src="img/logo/icon2.png">
-                                        <h2><a href="index.php">Entrée-Starters</a></h2> 
+                                        <h2><a href="starters.php">Entrée-Starters</a></h2> 
                                         <p>L'alimentation du démarreur indien a sa propre place dans le menu des plats indiens. Démarreurs indiennes peuvent également être consommées comme en-cas. Starters sont indiens, épicé et délicieux fumet.</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                                     <div class="about2-top-box">
                                          <img src="img/logo/spcl.png">
-                                        <h2><a href="index.php"> Spécial Indien</a></h2> 
+                                        <h2><a href="indian_spcl.php"> Spécial Indien</a></h2> 
                                         <p>La cuisine indienne est plus diversifiée que les autres aliments dans le monde. Il y a plus de 100 différentes différences dans l'alimentation traditionnelle et couche avec un même lieu que vous déplacez d'une maison à l'autre</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                                     <div class="about2-top-box">
                                          <img src="img/logo/ice-cream.png">
-                                        <h2><a href="index3.php">Desserts</a></h2> 
+                                        <h2><a href="desserts.php">Desserts</a></h2> 
                                         <p>Une glace faite avec du lait et du sucre, avec une variété de saveurs telles que la mangue, safran, ou de cardamome.</p>
                                     </div>
                                 </div>
@@ -649,7 +649,7 @@
                                 <p>C'était une soirée fantastique dans votre superbe restaurant qui a été apprécié par tout le monde qui a
                                 	eu la chance d'être là. Le menu, l'ambiance et l'attention spéciale accordée par votre personnel pour les invités, était comme toujours de la plus haute norme. Nous continuons de recevoir des compliments par beaucoup
                                 	de ceux qui étaient présents</p>
-                                <h3 class="title-bar-big-center"><a href="index.php">Francesca Graham Bell</a></h3>
+                                <h3 class="title-bar-big-center"><a href="#">Francesca Graham Bell</a></h3>
                             </div>
                             <div class="client-box">
                                 <a href="index.php"><img src="img/client/client2.jpg" class="img-responsive" alt="client"></a>
@@ -661,7 +661,7 @@
                                     <li><i class="fa fa-star" aria-hidden="true"></i></li>
                                 </ul>
                                 <p>J'ai eu une merveilleuse soirée hier, pour mon anniversaire, au Chili. La nourriture était, comme d'habitude, absolument délicieux et ma mère et j'ai tout apprécié</p>
-                                <h3 class="title-bar-big-center"><a href="index.php">Leon,</a></h3>
+                                <h3 class="title-bar-big-center"><a href="#">Leon,</a></h3>
                             </div>
                             <div class="client-box">
                                 <a href="index.php"><img src="img/client/client3.jpg" class="img-responsive" alt="client"></a>
@@ -673,7 +673,7 @@
                                     <li><i class="fa fa-star" aria-hidden="true"></i></li>
                                 </ul>
                                 <p>Merci pour une magnifique soirée. Nous avons fait passé quelques soirs et nous avons été enchantés par la magie des lumières. Nous n'avons jamais négocié sur cette merveilleuse expérience. Excellente cuisine, service et de divertissement.</p>
-                                <h3 class="title-bar-big-center"><a href="index.php">Arthur Fernandez</a></h3>
+                                <h3 class="title-bar-big-center"><a href="#">Arthur Fernandez</a></h3>
                             </div>
                         </div>
                     </div>
@@ -984,33 +984,33 @@
                                     <h3 class="title-bar-footer">Shalimar Spécial</h3>
                                     <div class="footer-blog-post">
                                         <div class="media">
-                                            <a href="#" class="pull-left">
+                                            <a href="indian_spcl.php" class="pull-left">
                                                 <img src="img/footer/footer1 (1).jpg" alt="footer-blog" class="img-responsive">
                                             </a>
                                             <div class="media-body">
-                                                <h4><a href="#">Menu Midi</a></h4>
+                                                <h4><a href="indian_spcl.php">Menu Midi</a></h4>
                                                 <p>11.00€</p>
                                             </div>
                                         </div>
                                     </div>
                                      <div class="footer-blog-post">
                                         <div class="media">
-                                            <a href="#" class="pull-left">
+                                            <a href="indian_spcl.php" class="pull-left">
                                                 <img src="img/footer/footer2 (1).jpg" alt="footer-blog" class="img-responsive">
                                             </a>
                                             <div class="media-body">
-                                                <h4><a href="#">Menu Voyage</a></h4>
+                                                <h4><a href="indian_spcl.php">Menu Voyage</a></h4>
                                                 <p>23.00€</p>
                                             </div>
                                         </div>
                                     </div>
                                      <div class="footer-blog-post">
                                         <div class="media">
-                                            <a href="#" class="pull-left">
+                                            <a href="indian_spcl.php" class="pull-left">
                                                 <img src="img/footer/footer3 (1).jpg" alt="footer-blog" class="img-responsive">
                                             </a>
                                             <div class="media-body">
-                                                <h4><a href="i#">Menu Shalimar</a></h4>
+                                                <h4><a href="indian_spcl.php">Menu Shalimar</a></h4>
                                                 <p>19.00€</p>
                                             </div>
                                         </div>
@@ -1023,10 +1023,10 @@
                                     <ul class="opening-schedule">
                                     	<li>Ouvert 7J/7 de 11h30 à 14h30 et de 18h30 à 22h45 </li>
                                     	<ul class="footer-social">
-                                        <li><a href="http://www.facebook.com"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                        <li><a href="http://www.twitter.com"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                        <li><a href="http://www.linkedin.com"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                        <li><a href="http://www.plus.google.com"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                                        <li><a href="http://www.facebook.com/shalimar"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li><a href="http://www.twitter.com/shalimar"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li><a href="http://www.linkedin.com/shalimar"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                        <li><a href="http://www.plus.google.com/shalimar"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
                                     	</ul>
                                         <!-- <li>Lundi<span> 5pm - 11pm</span></li>
                                         <li>Mardi<span> 5pm - 11pm</span></li>
