@@ -28,10 +28,10 @@ else {
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                     <div class="header-top-right">
                                         <ul>
-                                            <li><a href="http://www.facebook.com"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li><a href="http://www.twitter.com"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                            <li><a href="http://www.linkedin.com"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                            <li><a href="http://www.plus.google.com"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                                            <li><a href="http://www.facebook.com/shalimar"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                            <li><a href="http://www.twitter.com/shalimartaste"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                            <li><a href="http://www.linkedin.com/shalimar"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                            <li><a href="http://www.plus.google.com/shalimar"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>

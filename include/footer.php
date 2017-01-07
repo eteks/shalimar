@@ -58,7 +58,7 @@
                                     	<li>Ouvert 7J/7 de 11h30 à 14h30 et de 18h30 à 22h45 </li>
                                     	<ul class="footer-social">
                                         <li><a href="http://www.facebook.com/shalimar"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                        <li><a href="http://www.twitter.com/shalimar"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li><a href="http://www.twitter.com/shalimartaste"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                         <li><a href="http://www.linkedin.com/shalimar"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                                         <li><a href="http://www.plus.google.com/shalimar"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
                                     	</ul>

@@ -649,7 +649,7 @@
                                 <p>C'était une soirée fantastique dans votre superbe restaurant qui a été apprécié par tout le monde qui a
                                 	eu la chance d'être là. Le menu, l'ambiance et l'attention spéciale accordée par votre personnel pour les invités, était comme toujours de la plus haute norme. Nous continuons de recevoir des compliments par beaucoup
                                 	de ceux qui étaient présents</p>
-                                <h3 class="title-bar-big-center"><a href="#">Francesca Graham Bell</a></h3>
+                                <h3 class="title-bar-big-center"><p>Francesca Graham Bell</p></h3>
                             </div>
                             <div class="client-box">
                                 <a href="index.php"><img src="img/client/client2.jpg" class="img-responsive" alt="client"></a>
@@ -661,7 +661,7 @@
                                     <li><i class="fa fa-star" aria-hidden="true"></i></li>
                                 </ul>
                                 <p>J'ai eu une merveilleuse soirée hier, pour mon anniversaire, au Chili. La nourriture était, comme d'habitude, absolument délicieux et ma mère et j'ai tout apprécié</p>
-                                <h3 class="title-bar-big-center"><a href="#">Leon,</a></h3>
+                                <h3 class="title-bar-big-center"><p>Leon,</p></h3>
                             </div>
                             <div class="client-box">
                                 <a href="index.php"><img src="img/client/client3.jpg" class="img-responsive" alt="client"></a>
@@ -673,7 +673,7 @@
                                     <li><i class="fa fa-star" aria-hidden="true"></i></li>
                                 </ul>
                                 <p>Merci pour une magnifique soirée. Nous avons fait passé quelques soirs et nous avons été enchantés par la magie des lumières. Nous n'avons jamais négocié sur cette merveilleuse expérience. Excellente cuisine, service et de divertissement.</p>
-                                <h3 class="title-bar-big-center"><a href="#">Arthur Fernandez</a></h3>
+                                <h3 class="title-bar-big-center"><p>Arthur Fernandez</p></h3>
                             </div>
                         </div>
                     </div>
